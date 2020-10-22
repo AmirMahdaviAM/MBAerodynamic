@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-16"?> 
+<Variable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ScsVehicleVariable">
+	<ChildVariables />
+	<Id>c8b40ce5-2a25-4c69-bcf7-b2302695b647</Id>
+	<IsEnabled>true</IsEnabled>
+	<MS2LibraryVersion>
+	 <Major>2020</Major>
+	 <Minor>7</Minor>
+	</MS2LibraryVersion>
+	<InternalName>am.mbad</InternalName>
+	<VehicleName>MB AeroDynamic</VehicleName>
+	<VehicleAuthor>AmirMahdavi</VehicleAuthor>
+	<VehicleType>Trailers</VehicleType>
+	<Game>ETS2</Game>
+	<VehicleVariants>
+		<Variant>
+			<InternalName>body.carbon</InternalName>
+			<Name>Aerodynamic Carbon</Name>
+		</Variant>
+		
+		<Variant>
+			<InternalName>body.chrome</InternalName>
+			<Name>Aerodynamic Chrome</Name>
+		</Variant>
+		
+		<Variant>
+			<InternalName>body.darkchrome</InternalName>
+			<Name>Aerodynamic Dark Chrome</Name>
+		</Variant>
+		
+		<Variant>
+			<InternalName>body.paint</InternalName>
+			<Name>Aerodynamic Paint</Name>
+		</Variant>
+		
+		<Variant>
+			<InternalName>body.plastic</InternalName>
+			<Name>Aerodynamic Plastic</Name>
+		</Variant>		
+	</VehicleVariants>
+	
+	<AccessoryItems>
+		<ListItem>
+			<Group>CHASSIPARTS</Group>
+			<Text>b_chs_am.paint</Text>
+			<Value>b_chs_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>CHASSIPARTS</Group>
+			<Text>f_chs_am.paint</Text>
+			<Value>f_chs_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>CHASSIPARTS</Group>
+			<Text>m_chs_am.paint</Text>
+			<Value>m_chs_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>CHASSIPARTS</Group>
+			<Text>r_chs_am.paint</Text>
+			<Value>r_chs_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>FRONT LOGOS</Group>
+			<Text>f_logo_am.em_paint</Text>
+			<Value>f_logo_am.em_paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>FRONT LOGOS</Group>
+			<Text>f_logo_am.mb_paint</Text>
+			<Value>f_logo_am.mb_paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>FRONT LOGOS</Group>
+			<Text>f_logo_am.sc_paint</Text>
+			<Value>f_logo_am.sc_paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>ACCESSORIES</Group>
+			<Text>r_body_am.paint</Text>
+			<Value>r_body_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>ACCESSORIES</Group>
+			<Text>r_handle_am.paint</Text>
+			<Value>r_handle_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>ACCESSORIES</Group>
+			<Text>rz_light_am.paint</Text>
+			<Value>rz_light_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>ACCESSORIES</Group>
+			<Text>sd_light_am.paint</Text>
+			<Value>sd_light_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>BUMPERS</Group>
+			<Text>r_bumpera_am.paint</Text>
+			<Value>r_bumpera_am.paint</Value>
+		</ListItem>
+		
+		<ListItem>
+			<Group>BUMPERS</Group>
+			<Text>r_bumperb_am.paint</Text>
+			<Value>r_bumperb_am.paint</Value>
+		</ListItem>
+		
+	</AccessoryItems>
+</Variable>
